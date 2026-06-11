@@ -48,5 +48,5 @@ Open `index.html` in your web browser.
 ## Screenshot
 
 ```markdown
-![Calculator App](/calculator.png)
+![Calculator App](calculator.png)
 ```
