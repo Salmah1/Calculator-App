@@ -8,7 +8,7 @@ https://wonderful-paprenjak-2a0a99.netlify.app/
 
 A simple web-based calculator built using HTML and CSS. The application performs basic arithmetic operations through an interactive user interface.
 
-## Technologies Used
+## Technologies
 
 - HTML5
 - CSS3
