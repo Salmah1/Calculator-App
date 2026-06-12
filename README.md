@@ -21,6 +21,7 @@ Calculator-App/
 │
 ├── index.html
 ├── style.css
+├── calculator.png
 └── README.md
 ```
 
