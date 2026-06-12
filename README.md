@@ -47,4 +47,4 @@ Open `index.html` in your web browser.
 
 ## Screenshot
 
-`![Calculator App](calculator.png)`
+![Calculator App](calculator.png)
